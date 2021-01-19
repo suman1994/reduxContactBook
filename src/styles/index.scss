@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+$theme-colors: (
+    "primary": #0074d9,
+    "success": #33691e,
+    "danger": #ff4136,
+    "warning": #ffab00
+
+);
+body {
+    padding-top: 5rem;
+}
